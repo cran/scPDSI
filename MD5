@@ -1,0 +1,14 @@
+199a26974f15373dcfef945af2006d16 *DESCRIPTION
+db8aa67ee5109f4db362dbd45b1eb6c0 *NAMESPACE
+e7d12587ea7b3936f9fbca515197e5e9 *R/RcppExports.R
+b30d9a893e1d469775edd841cdbbcde7 *R/data.R
+cf90ee58af465c7c5fb6b469bd23affb *R/scpdsi.R
+6d9e28447848167d3fb7c8e88b12e796 *README.md
+11de6801da7a0c5b837147a4fd34a98b *data/Lubuge.rda
+211b9e4eb918babd884978825d952169 *man/Datasets.Rd
+5cfd5b9c4f1659f9d368cee0291bde56 *man/pdsi.Rd
+1a99cc7bb92b552b9ae36b724000c543 *src/RcppExports.cpp
+889b61632a66d41228c5e45d64459dd7 *src/pdsi.cpp
+8cb3ac2fdc72919df4f3701491c78f72 *src/pdsi.h
+5421dc6b6d4d8fe1c713930c4601633c *src/pdsi_ext.cpp
+07f53ba5b4b850aadadf680ca7c9203f *src/scpdsi.cpp
